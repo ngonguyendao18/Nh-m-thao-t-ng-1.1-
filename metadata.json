@@ -1,0 +1,7 @@
+{
+  "name": "Nhóm thao túng (1.1)",
+  "description": "Hệ thống phân tích dòng tiền thông minh (Smart Money) dành cho các nhà đầu tư tổ chức. Giải mã chỉ số Selasor, bẫy thanh khoản và quản lý rủi ro bậc thầy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
